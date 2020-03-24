@@ -24,7 +24,7 @@ if (whiteList.includes(name)); {
   console.log("Золотое яблоко");
 }
 else {
-  console.log("войны не будет");
+  console.log("Трою ждет мир и покой");
 }
 
 // #4
@@ -39,7 +39,7 @@ if (whiteList.includes(name) && age >= 18); {
   console.log("Золотое яблоко");
 }
 else {
-  console.log("Троянская война");
+  console.log("Трою ждет мир и процветание");
   blackList.push(name);
 }
   console.log(blackList);
