@@ -1,4 +1,5 @@
 //источники вдохновения: страх, тревога, изоляция,qr code
+//name: COVID OUTSIDE
 
 function setup() {
   createCanvas(400, 400);
